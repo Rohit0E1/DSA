@@ -5,8 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Rohit0E1/DSA/tree/master/0155-min-stack) |
+| [1021-remove-outermost-parentheses](https://github.com/Rohit0E1/DSA/tree/master/1021-remove-outermost-parentheses) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Rohit0E1/DSA/tree/master/0155-min-stack) |
+## String
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Rohit0E1/DSA/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
