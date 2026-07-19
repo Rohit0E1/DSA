@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Rohit0E1/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Rohit0E1/DSA/tree/master/0155-min-stack) |
 | [1021-remove-outermost-parentheses](https://github.com/Rohit0E1/DSA/tree/master/1021-remove-outermost-parentheses) |
 ## Design
@@ -14,4 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Rohit0E1/DSA/tree/master/1021-remove-outermost-parentheses) |
+## Array
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Rohit0E1/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+## Math
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Rohit0E1/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
