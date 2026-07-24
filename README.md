@@ -48,4 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/Rohit0E1/DSA/tree/master/0994-rotting-oranges) |
+## Binary Search
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Rohit0E1/DSA/tree/master/0374-guess-number-higher-or-lower) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Rohit0E1/DSA/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
