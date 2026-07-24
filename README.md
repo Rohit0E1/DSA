@@ -53,9 +53,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rohit0E1/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0278-first-bad-version](https://github.com/Rohit0E1/DSA/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Rohit0E1/DSA/tree/master/0374-guess-number-higher-or-lower) |
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/Rohit0E1/DSA/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Rohit0E1/DSA/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
