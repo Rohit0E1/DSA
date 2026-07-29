@@ -4,17 +4,20 @@
  * @return {number[]}
  */
 var twoSum = function(arr, target) {
-    let a =1;
-    let map = {};
-    for(let i =0; i< arr.length; i++){
-        console.log(map[arr[i]],arr[i])
+   let l = 0;
+    let r = arr.length-1;
 
-        let check = map[arr[i]] == 0 ? 1 : null
-        if(map[arr[i]] || check){
-            return [map[arr[i]]+1, i+1]
+    while (arr[l]+arr[r] != target){
+        let sum = arr[l]+arr[r];
+
+        if (sum == target) return [l+1, r+1]
+
+        if(sum > target){
+            r = r-1;
         }else{
-            let get = target-arr[i]
-            map[get] = i;
+            l = l+1;
         }
     }
+
+    return [l+1,r+1]
 };
