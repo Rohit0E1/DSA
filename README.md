@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rohit0E1/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0392-is-subsequence](https://github.com/Rohit0E1/DSA/tree/master/0392-is-subsequence) |
 | [1021-remove-outermost-parentheses](https://github.com/Rohit0E1/DSA/tree/master/1021-remove-outermost-parentheses) |
 ## Array
@@ -78,10 +79,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rohit0E1/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rohit0E1/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/Rohit0E1/DSA/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Rohit0E1/DSA/tree/master/0392-is-subsequence) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rohit0E1/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
