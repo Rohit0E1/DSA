@@ -4,20 +4,26 @@
  * @return {number}
  */
 var characterReplacement = function(s, k) {
-    let i = 0, map = new Map(), max = 0, best = 0;
-    for (let j = 0; j < s.length; j++) {
-        map.set(s[j], (map.get(s[j]) || 0) + 1);
-        max = Math.max(max, map.get(s[j]));
-        while (j - i + 1 - max > k) {
-            map.set(s[i], map.get(s[i]) - 1);
+    let i =0;
+    let j =0;
+    let map = new Map();
+    map.set(s[0],1);
+    let max = 0;
+    let tempMax = 0;
+    while(j<s.length){
+        let valid = isValid(map,k);
+        if(valid){
+            max = Math.max(max, j-i+1)
+            j++;
+            if(map.has(s[j])) {map.set(s[j], map.get(s[j])+1)}
+            else{map.set(s[j], 1)}
+        }else{
+            map.set(s[i], map.get(s[i])-1)
             i++;
-            max = Math.max(...map.values());
         }
-        best = Math.max(best, j - i + 1);
     }
-    return best;
+    return max;
 };
-
 
 const isValid = (map, k)=>{
     let arr = [...map.values()]
