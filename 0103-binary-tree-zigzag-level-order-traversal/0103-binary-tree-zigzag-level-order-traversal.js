@@ -16,16 +16,15 @@ var zigzagLevelOrder = function(root) {
         if (!root) return;
         if(!arr[level]) arr[level] = [];
 
-
         if(level % 2 == 0){
              arr[level].push(root.val);
-             level++;
         }else{
             arr[level].unshift(root.val);
-            level++;
         }
-            root.left && traVerse(root.left, level);
-            root.right && traVerse(root.right, level);
+        
+        level++;
+        root.left && traVerse(root.left, level);
+        root.right && traVerse(root.right, level);
     }
 
     traVerse(root,0);
