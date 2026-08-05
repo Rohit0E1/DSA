@@ -18,8 +18,7 @@ var searchBST = function(root, val) {
 
         if (curr.val == val) return curr;
 
-        if(curr.val > val) return find(curr.left);
-        if(curr.val < val) return find(curr.right);
+        return curr.val > val ? find(curr.left) : find(curr.right);
     }
 
     return find(root);
