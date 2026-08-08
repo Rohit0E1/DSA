@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Rohit0E1/DSA/tree/master/0029-divide-two-integers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rohit0E1/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0877-stone-game](https://github.com/Rohit0E1/DSA/tree/master/0877-stone-game) |
 ## Hash Table
@@ -267,4 +268,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Rohit0E1/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Rohit0E1/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Rohit0E1/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/Rohit0E1/DSA/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
