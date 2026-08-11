@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Rohit0E1/DSA/tree/master/0029-divide-two-integers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rohit0E1/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0507-perfect-number](https://github.com/Rohit0E1/DSA/tree/master/0507-perfect-number) |
 | [0877-stone-game](https://github.com/Rohit0E1/DSA/tree/master/0877-stone-game) |
 ## Hash Table
 |  |
