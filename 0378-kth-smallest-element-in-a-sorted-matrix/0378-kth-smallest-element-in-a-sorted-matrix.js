@@ -10,6 +10,8 @@ var kthSmallest = function(matrix, k) {
     for(let i = 0; i< n; i++){
        pq.push({val: matrix[i][0], row: i, col:0});
     }
+
+    console.log(pq.toArray())
     
     for(let count=0; count < k-1; count++){
         let {val, row, col} = pq.pop();
