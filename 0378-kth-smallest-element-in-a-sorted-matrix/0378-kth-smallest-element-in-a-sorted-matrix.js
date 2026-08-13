@@ -4,13 +4,11 @@
  * @return {number}
  */
 var kthSmallest = function(matrix, k) {
-    let a = matrix.flat();
     let pq = new MaxPriorityQueue();
-
-    for(let i = 0; i<a.length; i++){
-        pq.push(a[i]);
-        if(pq.size()>k)pq.pop();
+    for(let i = 0; i<matrix.length; i++){
+        for(let j =0; j<matrix[i].length; j++)
+        pq.push(matrix[i][j]);
     }
-
-    return pq.front()
+    while(pq.size() > k) {pq.pop()}
+    return pq.front();
 };
