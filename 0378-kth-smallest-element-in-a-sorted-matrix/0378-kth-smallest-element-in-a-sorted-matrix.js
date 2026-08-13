@@ -7,7 +7,7 @@ var kthSmallest = function(matrix, k) {
     let pq = new MinPriorityQueue(x => x.val);
     let n = matrix[0].length;
 
-    for(let i = 0; i< n; i++){
+    for(let i = 0; i< Math.min(n,k); i++){
        pq.push({val: matrix[i][0], row: i, col:0});
     }
 
