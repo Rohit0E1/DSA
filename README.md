@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Rohit0E1/DSA/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rohit0E1/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Rohit0E1/DSA/tree/master/0567-permutation-in-string) |
+| [0771-jewels-and-stones](https://github.com/Rohit0E1/DSA/tree/master/0771-jewels-and-stones) |
 | [1021-remove-outermost-parentheses](https://github.com/Rohit0E1/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [2942-find-words-containing-character](https://github.com/Rohit0E1/DSA/tree/master/2942-find-words-containing-character) |
 ## Array
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Rohit0E1/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Rohit0E1/DSA/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Rohit0E1/DSA/tree/master/0567-permutation-in-string) |
+| [0771-jewels-and-stones](https://github.com/Rohit0E1/DSA/tree/master/0771-jewels-and-stones) |
 ## Monotonic Stack
 |  |
 | ------- |
