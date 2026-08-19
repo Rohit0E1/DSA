@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Rohit0E1/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rohit0E1/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rohit0E1/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0216-combination-sum-iii](https://github.com/Rohit0E1/DSA/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/Rohit0E1/DSA/tree/master/0239-sliding-window-maximum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rohit0E1/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0496-next-greater-element-i](https://github.com/Rohit0E1/DSA/tree/master/0496-next-greater-element-i) |
@@ -353,4 +354,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/Rohit0E1/DSA/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Rohit0E1/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Rohit0E1/DSA/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/Rohit0E1/DSA/tree/master/0216-combination-sum-iii) |
 <!---LeetCode Topics End-->
