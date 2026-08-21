@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rohit0E1/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rohit0E1/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0131-palindrome-partitioning](https://github.com/Rohit0E1/DSA/tree/master/0131-palindrome-partitioning) |
+| [0171-excel-sheet-column-number](https://github.com/Rohit0E1/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/Rohit0E1/DSA/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Rohit0E1/DSA/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rohit0E1/DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Rohit0E1/DSA/tree/master/0029-divide-two-integers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rohit0E1/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0171-excel-sheet-column-number](https://github.com/Rohit0E1/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0507-perfect-number](https://github.com/Rohit0E1/DSA/tree/master/0507-perfect-number) |
 | [0877-stone-game](https://github.com/Rohit0E1/DSA/tree/master/0877-stone-game) |
 | [1903-largest-odd-number-in-string](https://github.com/Rohit0E1/DSA/tree/master/1903-largest-odd-number-in-string) |
