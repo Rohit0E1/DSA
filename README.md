@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Rohit0E1/DSA/tree/master/0029-divide-two-integers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rohit0E1/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/Rohit0E1/DSA/tree/master/0171-excel-sheet-column-number) |
+| [0367-valid-perfect-square](https://github.com/Rohit0E1/DSA/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/Rohit0E1/DSA/tree/master/0507-perfect-number) |
 | [0877-stone-game](https://github.com/Rohit0E1/DSA/tree/master/0877-stone-game) |
 | [1903-largest-odd-number-in-string](https://github.com/Rohit0E1/DSA/tree/master/1903-largest-odd-number-in-string) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Rohit0E1/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rohit0E1/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/Rohit0E1/DSA/tree/master/0278-first-bad-version) |
+| [0367-valid-perfect-square](https://github.com/Rohit0E1/DSA/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Rohit0E1/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rohit0E1/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rohit0E1/DSA/tree/master/0540-single-element-in-a-sorted-array) |
