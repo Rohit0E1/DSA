@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rohit0E1/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rohit0E1/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rohit0E1/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0079-word-search](https://github.com/Rohit0E1/DSA/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Rohit0E1/DSA/tree/master/0131-palindrome-partitioning) |
 | [0171-excel-sheet-column-number](https://github.com/Rohit0E1/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/Rohit0E1/DSA/tree/master/0242-valid-anagram) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Rohit0E1/DSA/tree/master/0042-trapping-rain-water) |
 | [0047-permutations-ii](https://github.com/Rohit0E1/DSA/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Rohit0E1/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Rohit0E1/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Rohit0E1/DSA/tree/master/0090-subsets-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rohit0E1/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rohit0E1/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Rohit0E1/DSA/tree/master/0079-word-search) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rohit0E1/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0994-rotting-oranges](https://github.com/Rohit0E1/DSA/tree/master/0994-rotting-oranges) |
 ## Binary Search
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Rohit0E1/DSA/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Rohit0E1/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Rohit0E1/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Rohit0E1/DSA/tree/master/0100-same-tree) |
@@ -365,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Rohit0E1/DSA/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/Rohit0E1/DSA/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Rohit0E1/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Rohit0E1/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Rohit0E1/DSA/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Rohit0E1/DSA/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Rohit0E1/DSA/tree/master/0216-combination-sum-iii) |
