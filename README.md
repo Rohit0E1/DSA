@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Rohit0E1/DSA/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/Rohit0E1/DSA/tree/master/1046-last-stone-weight) |
 | [2942-find-words-containing-character](https://github.com/Rohit0E1/DSA/tree/master/2942-find-words-containing-character) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Rohit0E1/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Rohit0E1/DSA/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/Rohit0E1/DSA/tree/master/0771-jewels-and-stones) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Rohit0E1/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Rohit0E1/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Monotonic Stack
 |  |
 | ------- |
