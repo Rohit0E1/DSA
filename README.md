@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Rohit0E1/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/Rohit0E1/DSA/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/Rohit0E1/DSA/tree/master/0994-rotting-oranges) |
+| [1029-two-city-scheduling](https://github.com/Rohit0E1/DSA/tree/master/1029-two-city-scheduling) |
 | [1046-last-stone-weight](https://github.com/Rohit0E1/DSA/tree/master/1046-last-stone-weight) |
 | [2942-find-words-containing-character](https://github.com/Rohit0E1/DSA/tree/master/2942-find-words-containing-character) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Rohit0E1/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rohit0E1/DSA/tree/master/0011-container-with-most-water) |
+| [1029-two-city-scheduling](https://github.com/Rohit0E1/DSA/tree/master/1029-two-city-scheduling) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Rohit0E1/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/Rohit0E1/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Rohit0E1/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Rohit0E1/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Rohit0E1/DSA/tree/master/0242-valid-anagram) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rohit0E1/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1029-two-city-scheduling](https://github.com/Rohit0E1/DSA/tree/master/1029-two-city-scheduling) |
 ## Sliding Window
 |  |
 | ------- |
@@ -403,4 +406,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Rohit0E1/DSA/tree/master/0051-n-queens) |
+## Hungarian Algorithm
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/Rohit0E1/DSA/tree/master/1029-two-city-scheduling) |
+## Successive Shortest Path Algorithm
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/Rohit0E1/DSA/tree/master/1029-two-city-scheduling) |
 <!---LeetCode Topics End-->
