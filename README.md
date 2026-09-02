@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Rohit0E1/DSA/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/Rohit0E1/DSA/tree/master/0239-sliding-window-maximum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rohit0E1/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0435-non-overlapping-intervals](https://github.com/Rohit0E1/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Rohit0E1/DSA/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Rohit0E1/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Rohit0E1/DSA/tree/master/0503-next-greater-element-ii) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Rohit0E1/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Rohit0E1/DSA/tree/master/0131-palindrome-partitioning) |
 | [0392-is-subsequence](https://github.com/Rohit0E1/DSA/tree/master/0392-is-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/Rohit0E1/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0877-stone-game](https://github.com/Rohit0E1/DSA/tree/master/0877-stone-game) |
 ## String Matching
 |  |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rohit0E1/DSA/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rohit0E1/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0435-non-overlapping-intervals](https://github.com/Rohit0E1/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Rohit0E1/DSA/tree/master/0455-assign-cookies) |
 | [0763-partition-labels](https://github.com/Rohit0E1/DSA/tree/master/0763-partition-labels) |
 | [1029-two-city-scheduling](https://github.com/Rohit0E1/DSA/tree/master/1029-two-city-scheduling) |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Rohit0E1/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Rohit0E1/DSA/tree/master/0242-valid-anagram) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rohit0E1/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0435-non-overlapping-intervals](https://github.com/Rohit0E1/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Rohit0E1/DSA/tree/master/0455-assign-cookies) |
 | [1029-two-city-scheduling](https://github.com/Rohit0E1/DSA/tree/master/1029-two-city-scheduling) |
 ## Sliding Window
