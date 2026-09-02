@@ -8,7 +8,6 @@ var eraseOverlapIntervals = function (int) {
     let res = 0;
 
     for (let i = 1; i < int.length; i++) {
-        console.log(int[i-1][1], int[i][0], int[i-1][1] > int[i][0])
         if(int[i-1][1] > int[i][0]) {
             res++ 
             int[i][1] = Math.min(int[i-1][1],int[i][1]);
