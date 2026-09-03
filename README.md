@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Rohit0E1/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Rohit0E1/DSA/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rohit0E1/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0621-task-scheduler](https://github.com/Rohit0E1/DSA/tree/master/0621-task-scheduler) |
 | [0739-daily-temperatures](https://github.com/Rohit0E1/DSA/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Rohit0E1/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/Rohit0E1/DSA/tree/master/0877-stone-game) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Rohit0E1/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Rohit0E1/DSA/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Rohit0E1/DSA/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/Rohit0E1/DSA/tree/master/0621-task-scheduler) |
 | [0763-partition-labels](https://github.com/Rohit0E1/DSA/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/Rohit0E1/DSA/tree/master/0771-jewels-and-stones) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Rohit0E1/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rohit0E1/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Rohit0E1/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Rohit0E1/DSA/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/Rohit0E1/DSA/tree/master/0621-task-scheduler) |
 | [0763-partition-labels](https://github.com/Rohit0E1/DSA/tree/master/0763-partition-labels) |
 | [1029-two-city-scheduling](https://github.com/Rohit0E1/DSA/tree/master/1029-two-city-scheduling) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Rohit0E1/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rohit0E1/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/Rohit0E1/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Rohit0E1/DSA/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/Rohit0E1/DSA/tree/master/0621-task-scheduler) |
 | [1029-two-city-scheduling](https://github.com/Rohit0E1/DSA/tree/master/1029-two-city-scheduling) |
 ## Sliding Window
 |  |
@@ -247,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Rohit0E1/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Rohit0E1/DSA/tree/master/0239-sliding-window-maximum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rohit0E1/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0621-task-scheduler](https://github.com/Rohit0E1/DSA/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Rohit0E1/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/Rohit0E1/DSA/tree/master/1046-last-stone-weight) |
 ## Monotonic Queue
@@ -397,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/Rohit0E1/DSA/tree/master/0621-task-scheduler) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Rohit0E1/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Rohit0E1/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Rohit0E1/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
