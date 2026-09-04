@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/Rohit0E1/DSA/tree/master/1046-last-stone-weight) |
 | [2942-find-words-containing-character](https://github.com/Rohit0E1/DSA/tree/master/2942-find-words-containing-character) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Rohit0E1/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3903-smallest-stable-index-i](https://github.com/Rohit0E1/DSA/tree/master/3903-smallest-stable-index-i) |
 ## Math
 |  |
 | ------- |
@@ -445,4 +446,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/Rohit0E1/DSA/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/Rohit0E1/DSA/tree/master/0455-assign-cookies) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/Rohit0E1/DSA/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
