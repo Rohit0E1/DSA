@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Rohit0E1/DSA/tree/master/0994-rotting-oranges) |
 | [1029-two-city-scheduling](https://github.com/Rohit0E1/DSA/tree/master/1029-two-city-scheduling) |
 | [1046-last-stone-weight](https://github.com/Rohit0E1/DSA/tree/master/1046-last-stone-weight) |
+| [1094-car-pooling](https://github.com/Rohit0E1/DSA/tree/master/1094-car-pooling) |
 | [2942-find-words-containing-character](https://github.com/Rohit0E1/DSA/tree/master/2942-find-words-containing-character) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Rohit0E1/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3903-smallest-stable-index-i](https://github.com/Rohit0E1/DSA/tree/master/3903-smallest-stable-index-i) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Rohit0E1/DSA/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Rohit0E1/DSA/tree/master/0621-task-scheduler) |
 | [1029-two-city-scheduling](https://github.com/Rohit0E1/DSA/tree/master/1029-two-city-scheduling) |
+| [1094-car-pooling](https://github.com/Rohit0E1/DSA/tree/master/1094-car-pooling) |
 ## Sliding Window
 |  |
 | ------- |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Rohit0E1/DSA/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Rohit0E1/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/Rohit0E1/DSA/tree/master/1046-last-stone-weight) |
+| [1094-car-pooling](https://github.com/Rohit0E1/DSA/tree/master/1094-car-pooling) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -432,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Rohit0E1/DSA/tree/master/0412-fizz-buzz) |
+| [1094-car-pooling](https://github.com/Rohit0E1/DSA/tree/master/1094-car-pooling) |
 ## Algorithm X
 |  |
 | ------- |
@@ -452,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1094-car-pooling](https://github.com/Rohit0E1/DSA/tree/master/1094-car-pooling) |
 | [3903-smallest-stable-index-i](https://github.com/Rohit0E1/DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Rohit0E1/DSA/tree/master/3904-smallest-stable-index-ii) |
 <!---LeetCode Topics End-->
