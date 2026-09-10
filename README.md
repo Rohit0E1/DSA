@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Rohit0E1/DSA/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/Rohit0E1/DSA/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/Rohit0E1/DSA/tree/master/0507-perfect-number) |
+| [0509-fibonacci-number](https://github.com/Rohit0E1/DSA/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Rohit0E1/DSA/tree/master/0877-stone-game) |
 | [1903-largest-odd-number-in-string](https://github.com/Rohit0E1/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Hash Table
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Rohit0E1/DSA/tree/master/0131-palindrome-partitioning) |
 | [0392-is-subsequence](https://github.com/Rohit0E1/DSA/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Rohit0E1/DSA/tree/master/0435-non-overlapping-intervals) |
+| [0509-fibonacci-number](https://github.com/Rohit0E1/DSA/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Rohit0E1/DSA/tree/master/0877-stone-game) |
 ## String Matching
 |  |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Rohit0E1/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/Rohit0E1/DSA/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/Rohit0E1/DSA/tree/master/0509-fibonacci-number) |
 ## Counting
 |  |
 | ------- |
@@ -461,4 +464,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/Rohit0E1/DSA/tree/master/1094-car-pooling) |
 | [3903-smallest-stable-index-i](https://github.com/Rohit0E1/DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Rohit0E1/DSA/tree/master/3904-smallest-stable-index-ii) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Rohit0E1/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
