@@ -3,15 +3,12 @@
  * @return {number}
  */
 var fib = function (n) {
-    let map = new Map();
-    const fib1 = function (n) {
-        if (n < 2) return n;
-        if(map.has(n)) return map.get(n)
-        let man = fib1(n - 1) + fib1(n - 2)
-        if(!map.has(n)) map.set(n,man)
+    let dp =  [];
+    dp.push(0);
+    dp.push(1);
+    for(let i = 2; i <=n; i++){
+        dp[i] = dp[i-1] + dp[i-2];
+    }
 
-        return map.get(n);
-    };
-
-   return fib1(n)
+    return dp[n]
 }
