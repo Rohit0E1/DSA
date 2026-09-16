@@ -3,15 +3,11 @@
  * @return {number}
  */
 var climbStairs = function (n) {
+    let arr = [0 ,1, 2];
 
-    let map = new Map();
-    function dp(n) {
-        if(n < 2) return n;
-        
-        if(!map.has(n)) map.set(n, dp(n-1) + dp(n-2));
-
-        return map.get(n);
+    for(let i = 3; i<= n; i++){
+        arr[i] = arr[i-1] + arr[i-2];
     }
 
-    return dp(n+1);
+    return arr[n];
 };
