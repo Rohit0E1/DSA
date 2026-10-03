@@ -3,22 +3,16 @@
  * @return {number}
  */
 var rob = function (arr) {
-    let l = arr.length - 1;
-    let map = new Map();
+    if (arr.length == 1) return arr[0];
+    let l = arr.length;
+    let newArr = [...arr];
 
-    function climbDown(n) {
-        if (n > l) return 0;
-        if (n == l) return arr[n];
-        if(map.has(n)) return map.get(n);
 
-        let m = climbDown(n + 2);
-        let r = climbDown(n + 3);
-
-        let k = Math.max(m, r);
-
-        map.set(n, k+ arr[n])
-        return map.get(n);
+    for(let i = 0; i < l -1; i++ ){
+        newArr[i + 2] = Math.max(newArr[i+2], newArr[i] + arr[i+2]);
+        newArr[i + 3] = Math.max(newArr[i+3] ,newArr[i] + arr[i+3]);
     }
+    
 
-    return Math.max(climbDown(0), climbDown(1));
+    return Math.max(newArr[newArr.length-3], newArr[newArr.length-4]);
 };
