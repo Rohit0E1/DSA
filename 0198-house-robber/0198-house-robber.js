@@ -5,14 +5,16 @@
 var rob = function (arr) {
     if (arr.length == 1) return arr[0];
     let l = arr.length;
-    let newArr = [...arr];
+    let prev1 = arr[0]
+    let res = Math.max(arr[0], arr[1]);
 
 
-    for(let i = 0; i < l -1; i++ ){
-        newArr[i + 2] = Math.max(newArr[i+2], newArr[i] + arr[i+2]);
-        newArr[i + 3] = Math.max(newArr[i+3] ,newArr[i] + arr[i+3]);
+    for(let i = 2   ; i < l; i++ ){
+        let temp = res;
+        res = Math.max(arr[i] + prev1 , res);
+        prev1 = temp
     }
     
 
-    return Math.max(newArr[newArr.length-3], newArr[newArr.length-4]);
+    return res;
 };
