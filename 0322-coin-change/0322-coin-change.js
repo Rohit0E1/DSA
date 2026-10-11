@@ -5,15 +5,14 @@
  */
 var coinChange = function(coins, amount) {
     if(amount == 0) return 0;
-    let dp = {}
+    let arr = [0];
+
 
     const match = (reAmount)=>{
-
-        if(reAmount == 0) { return 0; };
         if(reAmount < 0) return -1;
-        if(reAmount in dp) return dp[reAmount];
+        if(reAmount == 0) return 0;
+        if(arr[reAmount]) return arr[reAmount];
         let lowest = Infinity;
-
 
         for(let j = 0; j < coins.length; j++){
             let mas = reAmount - coins[j];
@@ -22,9 +21,14 @@ var coinChange = function(coins, amount) {
                 lowest = Math.min(res+1, lowest)
             }
         }
-        dp[reAmount] = lowest == Infinity ? -1 : lowest;
-        return dp[reAmount];
+        return lowest == Infinity ? -1 : lowest;
     };
 
-    return match(amount);
+
+    for(let i = 1; i <= amount; i++){
+        let min = match(i);
+        arr.push(min);
+    }
+
+    return arr[amount];
 };
