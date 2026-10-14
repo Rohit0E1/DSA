@@ -3,6 +3,8 @@
  * @return {number}
  */
 var countSubstrings = function(s) {
+
+    let map = new Map();
     const checkPal = (str) =>{
         if(str.length < 2) return false;
         let l = 0;
@@ -21,10 +23,20 @@ var countSubstrings = function(s) {
     let count = s.length;
     for(let i = 0; i <= s.length; i++){
         for(let j = i+1; j <= s.length; j++){
-            let res = checkPal(s.slice(i,j));
+            let a = s.slice(i,j);
+            let res;
+            if(!map.has(a)){
+                res = checkPal(a);
+                map.set(a,res)
+            }else{
+                res = map.get(a);
+            }
+
             if(res == true){
                 count++;
             }
+
+
         }
     }
 
