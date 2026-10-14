@@ -3,42 +3,31 @@
  * @return {number}
  */
 var countSubstrings = function(s) {
+    let n = s.length; 
+    let arr = Array.from({length: n},() => Array(n).fill(null));
 
-    let map = new Map();
-    const checkPal = (str) =>{
-        if(str.length < 2) return false;
-        let l = 0;
-        let r = str.length-1;
+    let ans = 0;
 
-        while (l <= r){
-            if(str[l] != str[r]){
-                return false;
-            }
-            l++;
-            r--;
-        };
-        return true;
+    for(let i = 0; i< n; i++){
+        arr[i][i] = true;
+        ans++;
+
+        if(i < n-1 && s[i] == s[i+1]){
+            arr[i][i+1] = true;
+            ans++;
+        }
     };
 
-    let count = s.length;
-    for(let i = 0; i <= s.length; i++){
-        for(let j = i+1; j <= s.length; j++){
-            let a = s.slice(i,j);
-            let res;
-            if(!map.has(a)){
-                res = checkPal(a);
-                map.set(a,res)
-            }else{
-                res = map.get(a);
+    for(let len = 3; len <= s.length; len++){
+        for(let j = 0 ; j<= n-len ; j++){
+            let i = j + len-1;
+
+            if(s[i] == s[j] && arr[j+1][i-1]){
+                ++ans;
+                arr[j][i] = true;
             }
-
-            if(res == true){
-                count++;
-            }
-
-
         }
     }
 
-    return count;
+    return ans;
 };
