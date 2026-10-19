@@ -16,7 +16,6 @@ var maxSubArray = function(nums) {
         if(prev > max){
             max = prev;
         }
-        console.log(max,prev)
     }
 
     return max;
