@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Rohit0E1/DSA/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Rohit0E1/DSA/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rohit0E1/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/Rohit0E1/DSA/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rohit0E1/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Rohit0E1/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rohit0E1/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rohit0E1/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Rohit0E1/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Rohit0E1/DSA/tree/master/0131-palindrome-partitioning) |
+| [0152-maximum-product-subarray](https://github.com/Rohit0E1/DSA/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Rohit0E1/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Rohit0E1/DSA/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/Rohit0E1/DSA/tree/master/0322-coin-change) |
