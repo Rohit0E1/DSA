@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Rohit0E1/DSA/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Rohit0E1/DSA/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/Rohit0E1/DSA/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Rohit0E1/DSA/tree/master/0139-word-break) |
 | [0171-excel-sheet-column-number](https://github.com/Rohit0E1/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/Rohit0E1/DSA/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Rohit0E1/DSA/tree/master/0392-is-subsequence) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rohit0E1/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Rohit0E1/DSA/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Rohit0E1/DSA/tree/master/0135-candy) |
+| [0139-word-break](https://github.com/Rohit0E1/DSA/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rohit0E1/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Rohit0E1/DSA/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rohit0E1/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rohit0E1/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Rohit0E1/DSA/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rohit0E1/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0139-word-break](https://github.com/Rohit0E1/DSA/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Rohit0E1/DSA/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Rohit0E1/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Rohit0E1/DSA/tree/master/0202-happy-number) |
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rohit0E1/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Rohit0E1/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Rohit0E1/DSA/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Rohit0E1/DSA/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Rohit0E1/DSA/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Rohit0E1/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Rohit0E1/DSA/tree/master/0213-house-robber-ii) |
@@ -496,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Rohit0E1/DSA/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Rohit0E1/DSA/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/Rohit0E1/DSA/tree/master/0509-fibonacci-number) |
 ## Knapsack Problem
 |  |
@@ -509,4 +514,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Rohit0E1/DSA/tree/master/0005-longest-palindromic-substring) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Rohit0E1/DSA/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Rohit0E1/DSA/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
